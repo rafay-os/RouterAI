@@ -50,11 +50,17 @@ The schematic and 3D PCB layout were designed in EasyEDA with proper power rail 
 </p>
 
 ## Schematics
+
+Designed in EasyEDA by connecting the ESP32-S3 microcontroller to the INMP441 mic, MAX98357A amp, and power components using clear net labels and proper pin mapping.
+
 <p align="center">
   <img src="Images/schematics.jpg" alt="Schematic Layout" width="500"/>
 </p>
 
 ## PCB Layout
+
+Routed as a compact 6.2 x 7.2 cm board in EasyEDA with organized component placement and power traces to fit snugly inside the router shell.
+
 <p align="center">
   <img src="Images/pcb.jpg" alt="PCB Layout" width="500"/>
 </p>
