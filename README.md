@@ -56,7 +56,7 @@ The schematic and 3D PCB layout were designed in EasyEDA with proper power rail 
 
 ## PCB Layout
 <p align="center">
-  <img src="Images/pcb.png" alt="PCB Layout" width="500"/>
+  <img src="Images/pcb.jpg" alt="PCB Layout" width="500"/>
 </p>
 
 ## Project Setup & Usage
